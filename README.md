@@ -1,4 +1,4 @@
-# Coloquios Python
+# Coloquios Python de la materia Algoritmos y Programación 1
 
 ## Varios ejercicios en Python tomados en Exámenes Coloquio/Final por la materia Algoritmos y Programación I
 
